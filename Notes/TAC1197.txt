@@ -1,0 +1,76 @@
+
+Today we'l talk about Cloud Computing.
+**Refer to PPT on class website.**
+
+Introduction : Cloud is almost everywhere.
+Significance of Cloud computing from a global perspective
+Fartner has different rankings for different impact, transformational is the highest. Gartner is an American company which advices on Technology.
+
+IDC estimated a few years a significant growth in the industry.
+IDC is International Data Corporation owned by International Data Group is also
+ a American Group which is a market research analusis firm and specialises in
+ IT and stuff, covers wider range in research and tech, such as tech and 
+ media and more.
+
+The first slide gives you different aspecets when cloud started to grow how different people looked at it.
+
+We have 3 types of cloud : Public, Private and Hybrid.
+Private is growing in the market and different companies are adopting it.
+
+Concerns of having cloud services
+Privacy and Security ( Major factor that prevented from having cloud services.
+ The security in cloud always has been and still is a major research area)
+
+Locally there were startup companies that are open for more and more positions.
+(Silver lining was in the process of adding upto 900 jobs in Feb 2013)
+
+Cloud is one of the new trends in computing along with Big Data. But there are not isolated. When people do research on either topic they will be using the other to facilitate research.
+AI is also a hot topic in computing. Neural Networks is a sub part of it. That part of the industry also needs to have the capability to process in a very quick way.
+
+Generally Cloud sizes are small even though they can be big. In order for cloud for happen. Internet is the key and the access to the service is remote. One part of cloud sim is network topology. 
+There are many definitions to cloud computing refer to PPT. NIST is the national institute of standards. Refer to PPT for the definition by NIST about Cloud. "On demand network access', 
+majority of servies are on demand, it is cost effective for customer. 'shared pool' that part has something to do with virtualisation, with tech we can manage these resources well. The services
+like storage is abstracted, so the customer sees a big storage space but it is a combination of several servers. This is virtualisation. Speed is very important. Minimal management, when a user uses
+a service, he should do minimal management and it should be taken care of. Each definition emphasizes some aspects of cloud computing, but do not provide whole picture.
+Another key of cloud is relaible, so users can have peace in mind, how to make sure it is relaible, thats also an issue. We have different ways to ensure relaibility, like redundant storage.
+Hadoop HDFS File System, each file is divided into blocks, and each blocks will be stored in different nodes across different servers. The entire info is stored on the main node.
+Cloud normally is provided by data centers. These computers are usually not expensive. Grid computing is a lot like cloud, but it is used for scientific power but Cloud is aiming for high throughput.
+It cares more about how many jobs it can do in one time unit. We should have a system to make sure that it works in parallel. Its pay as you go because its 'on demand'. Virtualization makes it power seeming unlimited through virtualization.
+
+Aspects of hardwarre that can benefit from Cloud
+1. illusion of unlimited computing resources available on demand. Hardware is a huge cosst for companies. When we can have on demand resources from cloud then company need not put too much money in 
+front.
+2. For small companies they do not have much cash flow. Depending on where you start from you can take computing power to suit your own needs. Very elastic, no long term commiment. Depending on seasons
+the traffic changes so you can vary the resources you use.
+3. Depending on time you need the resources you can always release it when you're not using.
+Cloud computing is very environmentally friendly. 
+
+We use cloud shape to represent internet. Refer to PPT.
+
+Key Attributes of cloud computing
+Refer to PPT
+1. If a company is using cloud services then the data is stored remotely. It is a concern for some companies. Alternate solution is putting critical data in the company firewalls. The computation is 
+done outside the company firewall.
+2.You can dynamically decide the resources you need and you can always increase and decrease the resources you use.
+3. Its not charged by year or month, you can slso retn by hour and by day.
+4.
+5. Cloud avalaibly as a services which as diffent types like SaaS and PaaS.
+6. Cloud lets you always stay conneected to your data as long as you have the proper access.
+7. Admin is simplified through autoomatic provisioning, which sepeeds up processes.
+8. Check PPT. Instead of hardware you save money on it. Also save money on people.
+9. There is a so called container  which ensure sthat what happens in one contained is isolate ithan the oteher computer.
+10.
+
+SOA Loosely Coupled, they are conencted but in the least way, so when you cahange one it doesnt effect otehrs
+SOA and cloud are independent concepts
+
+Grid computing : high performance computing, high parallelism, is typically in scientific environments. allocates resources in bath mode which is if reseources are assigned to one job it wont be 
+released till the job is done,
+
+Web 1.0 is mainly for static homepage but has some interaction, 2.0 has dynamic programming much more dynamic interaction betweuter and users
+Browser needs to give 2.0. it is a class of serives which can be delivered to the users
+
+
+Amazon founder said intenet business will increase by 2.3%
+Amazon rents out power and reseources when it is not peak season, they also proivde platform for 3rd party apps
+
