@@ -2,6 +2,8 @@
 This repository contains notes about Cloud Computing (CS7125) which is a class in Spring 2017 at KSU. It holds 3 credits.
 It is a core class for MSCS.
 
+__I added a webscraper for the class, its called sample.py__
+
 http://ksuweb.kennesaw.edu/~yshi5/7125/CS_7125_Homepage_spring2017.htm
 
 __THIS CLASS DOESNT USE D2L. PLEASE REFER TO CLASS WEBSITE FOR UPDATES.__
